@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/laoduy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulorag&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorag&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laoduy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laoudy&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
